@@ -1,0 +1,1 @@
+# Imagetyperz-Perl-API-EXAMPLE
